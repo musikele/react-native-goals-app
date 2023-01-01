@@ -77,5 +77,6 @@ const styles = StyleSheet.create({
 
     goalsContainer: {
         flex: 5,
+        marginTop: 24,
     },
 });
